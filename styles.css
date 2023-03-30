@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  display: block;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  background-color: white;
+}
+#img-caption {
+  padding: 20px 0px;
+  font-size: 15.6px;
+  letter-spacing: 0.7px;
+  color: gray;
+}
+#main {
+  margin-top: 30px;
+  text-align: center;
+  background-image: url("./images/hand-painted-watercolor-pastel-sky-background_23-2148902771.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#title {
+  padding-top: 50px;
+  font-size: 43px;
+}
+#img-div {
+  background-color: white;
+}
+#tribute-info {
+  padding-top: 20px;
+  font-size: 15px;
+}
+#headline {
+  padding-bottom: 20px;
+}
+ul {
+  /* font-size: 15px; */
+  text-align: left;
+  margin: 0px 27%;
+}
+li {
+  padding: 15px 0px;
+}
+blockquote {
+  padding: 15px 0px;
+  /* font-size: 15px; */
+  text-align: left;
+  margin: 0px 35%;
+}
+#paragraph {
+  font-size: 18px;
+  padding-bottom: 35px;
+  font-weight: bold;
+}
